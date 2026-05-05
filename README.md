@@ -84,11 +84,6 @@ Led the architecture, development, and deployment of the original CMIS platform.
 - Reporting and operational tools
 - Systems design and implementation
 
-## Education
-
-**Bachelor of Science in Mathematics, Statistics & Computer Science**  
-University of Papua New Guinea, `2023`
-
 ## Interests
 
 `Web Technology` `Cloud Solutions` `Cybersecurity` `Big Data` `Web3 & Payments`
@@ -103,5 +98,5 @@ University of Papua New Guinea, `2023`
 ## Contact
 
 - Email: [eugenepande@gmail.com](mailto:eugenepande@gmail.com)
-- GitHub: [github.com/esp-pandev](https://github.com/esp-pandev)
+- GitHub: [github.com/eugene-pande](https://github.com/eugene-pande)
 - Location: Port Moresby, Papua New Guinea
