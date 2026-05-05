@@ -1,17 +1,18 @@
 # Eugene Pande
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=Web+Applications+%26+Database+Systems+Developer;Building+practical+systems+for+real-world+operations;Laravel+%7C+Livewire+%7C+SQL+%7C+System+Design" alt="Typing intro" />
+  <strong>Web Applications & Database Systems Developer</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:eugenepande@gmail.com"><img src="https://img.shields.io/badge/Email-eugenepande%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/esp-pandev"><img src="https://img.shields.io/badge/GitHub-esp--pandev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  Building practical systems for real-world operations in Papua New Guinea
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esp-pandev&style=for-the-badge&color=0e7490" alt="Profile views" />
+  <a href="mailto:eugenepande@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/esp-pandev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Port%20Moresby%2C%20PNG-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=esp-pandev&style=flat-square&color=0e7490" alt="Profile views" />
 </p>
 
 ## About Me
@@ -19,17 +20,6 @@
 I am a software developer focused on building practical, reliable web applications and database systems that solve real operational problems. My experience spans public and private sector projects in Papua New Guinea, with a strong emphasis on scalable application design, structured delivery, and maintainable systems.
 
 I work across the full delivery cycle, from requirements gathering and system design to implementation, deployment support, documentation, and user training.
-
-## Current Role
-
-**Developer, Web Applications & Database Systems**  
-**Yumi Code PNG** | `2023 - Present`
-
-- Lead web application and database development projects aligned with client requirements and delivery timelines.
-- Collaborate with technical and non-technical stakeholders on analysis, planning, reviews, and solution delivery.
-- Build and maintain custom systems using structured development practices and industry best practices.
-- Prepare technical documentation, user guides, training materials, and systems review reports.
-- Support deployments, performance monitoring, issue resolution, and continuous improvement after release.
 
 ## Featured Work
 
