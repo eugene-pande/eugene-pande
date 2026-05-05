@@ -12,7 +12,7 @@
   <a href="mailto:eugenepande@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/esp-pandev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Port%20Moresby%2C%20PNG-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=esp-pandev&style=flat-square&color=0e7490" alt="Profile views" />
+  {{--<img src="https://komarev.com/ghpvc/?username=esp-pandev&style=flat-square&color=0e7490" alt="Profile views" />--}}
 </p>
 
 ## About Me
