@@ -41,9 +41,9 @@ Developed an AI-assisted recruitment and HRMIS platform for the Land Commission 
 
 ### PABX Portal
 
-Built a Laravel-based PABX reporting, billing, analytics, and ETL portal for managing telecom call detail records.
+Built a Laravel-based PABX reporting, billing, analytics, and ETL portal for Vodafone PNG and its clients to manage telecom call detail records.
 
-- Developed secure administrator and client dashboards with role-based access controls for usage, billing, and reporting insights.
+- Developed secure Vodafone PNG administrator and client dashboards with role-based access controls for usage, billing, and reporting insights.
 - Implemented ETL workflows for importing, processing, and validating PABX call detail records across incoming, outgoing, extension-based, and billed usage reports.
 - Added client management for customer IDs, charging rates, assigned billing numbers, three-month billing window controls, exportable reports, and Chart.js analytics.
 - Dockerized the production setup with Nginx load balancing, PHP-FPM services, SSL readiness, and reverse proxy support.
