@@ -39,6 +39,15 @@ Developed an AI-assisted recruitment and HRMIS platform for the Land Commission 
 - Implemented SOP-driven workflow progression, approval processes, audit-friendly status tracking, Livewire dashboards, and PDF reports.
 - Added AI-assisted profiling, shortlisting support, candidate recommendations, interview question generation, queued email notifications, and digital signatures.
 
+### PABX Portal
+
+Built a Laravel-based PABX reporting, billing, analytics, and ETL portal for managing telecom call detail records.
+
+- Developed secure administrator and client dashboards with role-based access controls for usage, billing, and reporting insights.
+- Implemented ETL workflows for importing, processing, and validating PABX call detail records across incoming, outgoing, extension-based, and billed usage reports.
+- Added client management for customer IDs, charging rates, assigned billing numbers, three-month billing window controls, exportable reports, and Chart.js analytics.
+- Dockerized the production setup with Nginx load balancing, PHP-FPM services, SSL readiness, and reverse proxy support.
+
 ### CMIS v1
 
 Led the architecture, development, and deployment of the original CMIS platform.
